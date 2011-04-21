@@ -1,0 +1,8 @@
+*ReSharper*
+*.suo# VS solution user options
+*.user# VS project user options
+*.dll
+*.exe
+*.pdb
+*.rar
+
